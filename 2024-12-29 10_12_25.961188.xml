@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   www.cadeogame.com.br/MeuCG/Principal
+   <url>      <param>usuario=Jefinho</param>
+      <param>senha=12131415</param>
+      <param>goback=</param>
+      <param>entrar=Entrar</param>
+   </url>
+</harvester>
